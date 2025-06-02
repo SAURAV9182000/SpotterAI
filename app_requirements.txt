@@ -5,4 +5,5 @@ numpy
 pandas
 matplotlib
 Pillow
-plotly
+plotly==5.22.0
+
